@@ -1,0 +1,718 @@
+# Translation of Plugins - Revive Old Posts &#8211; Auto Post to Social Media - Development (trunk) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Revive Old Posts &#8211; Auto Post to Social Media - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-19 09:37:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Revive Old Posts &#8211; Auto Post to Social Media - Development (trunk)\n"
+
+#: includes/class-rop-i18n.php:271
+msgid ""
+"It seems there is an issue with your WordPress configuration and the core REST API functionality is not available. This is crucial as Revive Old Post relies on this functionality in order to work.<br/>\n"
+"The root cause might be either a security plugin which blocks this feature or some faulty server configuration which constrain this WordPress feature. <br/>\n"
+"You can try to disable any of the security plugins that you use in order to see if the issue persists or ask the hosting company to further investigate."
+msgstr ""
+"Parece que hay un problema con tu configuración de WordPress y la funcionalidad base de la REST API no está disponible. Esto es crucial pues Revive Old Post se apoya en esta funcionalidad para funcionar.<br/>\n"
+"La causa original puede ser o un plugin de seguridad que bloquea esta característica o alguna configuración fallida del servidor que restringe esta característica de WordPress.<br/>\n"
+"Puedes tratar de desactivar alguno de los plugins de seguridad que uses para ver si persiste el problema o preguntar a tu empresa de alojamiento para seguir investigando."
+
+#: includes/class-rop-i18n.php:98
+msgid "You can check %1$shere%2$s how to get this details."
+msgstr "Puedes comprobar %1$saquí%2$s cómo conseguir estos detalles."
+
+#: includes/class-rop-i18n.php:270
+msgid "This is a staging website, posts will not share to your accounts."
+msgstr "Esta es una web en pruebas, las publicaciones no se compartirán en tus cuentas."
+
+#: includes/class-rop-i18n.php:269
+msgid "Once every 1 min"
+msgstr "Una vez cada 1 minuto"
+
+#: includes/class-rop-i18n.php:239
+msgid "Link using"
+msgstr "Enlace usando"
+
+#: includes/class-rop-i18n.php:155
+msgid "Load more posts."
+msgstr "Cargar más entradas."
+
+#: includes/class-rop-i18n.php:154
+msgid "No posts found."
+msgstr "No se han encontrado entradas."
+
+#: includes/class-rop-i18n.php:153
+msgid "Exclude this post"
+msgstr "Excluir esta entrada"
+
+#: includes/class-rop-i18n.php:152
+msgid "Include this post"
+msgstr "Incluir esta entrada"
+
+#: includes/class-rop-i18n.php:151
+msgid "Exclude all matching"
+msgstr "Excluir todas las que coincidan"
+
+#: includes/class-rop-i18n.php:150
+msgid "Show only excluded posts"
+msgstr "Mostrar solo entradas excluidas"
+
+#: includes/class-rop-i18n.php:149
+msgid "Search post to exclude..."
+msgstr "Buscar entrada a excluir…"
+
+#: includes/class-rop-i18n.php:148
+msgid "Save filters"
+msgstr "Guardar filtros"
+
+#: includes/class-rop-i18n.php:147
+msgid "Exclude taxononmies"
+msgstr "Excluir taxonomías"
+
+#: includes/class-rop-i18n.php:81
+msgid "Remove account from the list."
+msgstr "Quitar cuenta de la lista."
+
+#: includes/admin/class-rop-admin.php:274
+msgid "Dashboard"
+msgstr "Escritorio"
+
+#: includes/class-rop-i18n.php:281
+msgid "Custom message #"
+msgstr "Mensaje personalizado #"
+
+#: includes/class-rop-i18n.php:280
+msgid "A custom message that will be selected randomly for each share and will overwrite the default post."
+msgstr "Un mensaje personalizado que será seleccionado aleatoriamente cada vez que se comparta y sobreescribirá la entrada por defecto."
+
+#: includes/class-rop-i18n.php:279
+msgid "Add New Custom Message"
+msgstr "Añadir un nuevo mensaje personalizado"
+
+#: includes/class-rop-i18n.php:278
+msgid "Remove Custom Message"
+msgstr "Borrar mensaje personalizado"
+
+#: includes/class-rop-i18n.php:268
+msgid "Sharing..."
+msgstr "Compartiendo..."
+
+#: includes/class-rop-i18n.php:267
+msgid "Next share"
+msgstr "Siguiente compartido"
+
+#: includes/class-rop-i18n.php:266
+msgid "Nothing found matching"
+msgstr "No se encontró nada que coincida"
+
+#: includes/class-rop-i18n.php:265
+msgid "Upgrade to Business."
+msgstr "Mejorar a Business."
+
+#: includes/class-rop-i18n.php:264
+msgid "Upgrade to Pro."
+msgstr "Mejorar a Pro."
+
+#: includes/class-rop-i18n.php:263
+msgid "You will need at least one active account to start sharing."
+msgstr "Necesitarás al menos una cuenta activa para comenzar a compartir."
+
+#: includes/class-rop-i18n.php:262
+msgid "Sharing"
+msgstr "Compartir"
+
+#: includes/class-rop-i18n.php:261
+msgid "Stop"
+msgstr "Detener"
+
+#: includes/class-rop-i18n.php:260
+msgid "Start"
+msgstr "Iniciar"
+
+#: includes/class-rop-i18n.php:259
+msgid "Now"
+msgstr "Ahora"
+
+#: includes/class-rop-i18n.php:258
+msgid "in"
+msgstr "en"
+
+#: includes/class-rop-i18n.php:252
+msgid "No recent logs!"
+msgstr "¡Sin registros recientes!"
+
+#: includes/class-rop-i18n.php:251
+msgid "Clear logs"
+msgstr "Vaciar registros"
+
+#: includes/class-rop-i18n.php:250
+msgid "Logs"
+msgstr "Registros"
+
+#: includes/class-rop-i18n.php:246
+msgid "Insert"
+msgstr "Insertar"
+
+#: includes/class-rop-i18n.php:245
+msgid "Insert a media"
+msgstr "Insertar un medio"
+
+#: includes/class-rop-i18n.php:244
+msgid "Block"
+msgstr "Bloquear"
+
+#: includes/class-rop-i18n.php:243
+msgid "Skip"
+msgstr "Saltar"
+
+#: includes/class-rop-i18n.php:242
+msgid "No Image"
+msgstr "Sin imagen"
+
+#: includes/class-rop-i18n.php:238
+msgid "Link"
+msgstr "Enlace"
+
+#: includes/class-rop-i18n.php:236
+msgid "Ban this post from sharing in the future."
+msgstr "Evitar que esta entrada se comparta en el futuro."
+
+#: includes/class-rop-i18n.php:235
+msgid "Reschedule this post."
+msgstr "Reprogramar esta entrada."
+
+#: includes/class-rop-i18n.php:234
+msgid "Content"
+msgstr "Contenido"
+
+#: includes/class-rop-i18n.php:233
+msgid "Remove"
+msgstr "Quitar"
+
+#: includes/class-rop-i18n.php:232
+msgid "Upload"
+msgstr "Subir"
+
+#: includes/class-rop-i18n.php:231
+msgid "Image"
+msgstr "Imagen"
+
+#: includes/class-rop-i18n.php:230
+msgid "Refresh Queue"
+msgstr "Refrescar cola"
+
+#: includes/class-rop-i18n.php:229
+msgid "Check if you have at least an <b>\"Active account\"</b>, what posts and pages are selected in <b>\"General Settings\"</b> and if a <b>\"Schedule\"</b> is defined."
+msgstr "Comprueba si tienes al menos una <b>\"cuenta activa\"</b>, qué entradas y páginas están seleccionadas en los <b>\"Ajustes generales\"</b> y si se ha definido una if a <b>\"programación\"</b>."
+
+#: includes/class-rop-i18n.php:228
+msgid "No queued posts!"
+msgstr "¡No hay entradas encoladas!"
+
+#: includes/class-rop-i18n.php:227
+msgid "You can edit the posts from the queue only the Business version of the plugin. View more details %1$shere%2$s."
+msgstr "Puedes modificar las entradas de la cola solo en la versión Business del plugin. Ve más detalles %1$saquí%2$s."
+
+#: includes/class-rop-i18n.php:226
+msgid "You can choose to edit any of the post, skip the sharing or block a specific one from sharing in the future."
+msgstr "Puedes elegir modificar cualquiera de las entradas, saltar la compartición o bloquear que se comparta en el futuro una específica."
+
+#: includes/class-rop-i18n.php:225
+msgid "You need to start sharing in order to see any posts in the queue."
+msgstr "Necesitas comenzar a compartir para ver entradas en la cola."
+
+#: includes/class-rop-i18n.php:224
+msgid "Sharing is not started!"
+msgstr "¡No se ha comenzado a compartir!"
+
+#: includes/class-rop-i18n.php:223
+msgid "Sharing Queue"
+msgstr "Cola de compartidos"
+
+#: includes/class-rop-i18n.php:220
+msgid "The Custom Schedule is available only in the Business version."
+msgstr "La programación personalizada solo está disponible en la versión Business."
+
+#: includes/class-rop-i18n.php:219
+msgid "A recurring interval to use for sharing. Once every 'X' hours."
+msgstr "Un intervalo recurrente para usarlo para compartir. Una vez cada 'X' horas."
+
+#: includes/class-rop-i18n.php:218
+msgid "Recurring Schedule Interval."
+msgstr "Intervalo de programación recurrente."
+
+#: includes/class-rop-i18n.php:217
+msgid "The time at witch to share for this account."
+msgstr "La hora a la que deseas compartir en esta cuenta."
+
+#: includes/class-rop-i18n.php:216
+msgid "Fixed Schedule Time."
+msgstr "Hora fija programada."
+
+#: includes/class-rop-i18n.php:215
+msgid "The days when to share for this account."
+msgstr "Los días en los que se compartirá para esta cuenta."
+
+#: includes/class-rop-i18n.php:214
+msgid "Fixed Schedule Days"
+msgstr "Días de programación fijos"
+
+#: includes/class-rop-i18n.php:213
+msgid "Recurring"
+msgstr "Recurrente"
+
+#: includes/class-rop-i18n.php:212
+msgid "Fixed"
+msgstr "Fijado"
+
+#: includes/class-rop-i18n.php:211
+msgid "What type of schedule to use."
+msgstr "Qué tipo de programación usar."
+
+#: includes/class-rop-i18n.php:210
+msgid "Schedule Type"
+msgstr "Tipo de programación"
+
+#: includes/class-rop-i18n.php:206
+msgid "Posting with images is available in the pro version."
+msgstr "Publicar con imágenes está disponible en la versión pro."
+
+#: includes/class-rop-i18n.php:204
+msgid "Use the featured image when posting?"
+msgstr "¿Usar la imagen destacada al publicar?"
+
+#: includes/class-rop-i18n.php:202
+msgid "The maximum hashtags length to be used when publishing."
+msgstr "La longitud máxima de hashtags a usar al publicar."
+
+#: includes/class-rop-i18n.php:200
+msgid "The name of the meta field that contains the hashtags."
+msgstr "El nombre del campo meta que contiene los hashtags."
+
+#: includes/class-rop-i18n.php:199
+msgid "Custom Hashtags"
+msgstr "Hashtags personalizados"
+
+#: includes/class-rop-i18n.php:198
+msgid "List of hastags to use separated by comma"
+msgstr "Lista de hashtags a usar, separados por comas"
+
+#: includes/class-rop-i18n.php:191
+msgid "Hashtags to published content."
+msgstr "Hashtags del contenido publicado."
+
+#: includes/class-rop-i18n.php:189
+msgid "required by the"
+msgstr "requerido por el"
+
+#: includes/class-rop-i18n.php:188
+msgid "Add the"
+msgstr "Añadir el"
+
+#: includes/class-rop-i18n.php:187
+msgid "service API"
+msgstr "API del servicio"
+
+#: includes/class-rop-i18n.php:186
+msgid "Which service to use for URL shortening?"
+msgstr "¿Que servicio se usará para acortar las URL?"
+
+#: includes/class-rop-i18n.php:183
+msgid "Should we use a shortner when adding the links to the content?"
+msgstr "¿Deberíamos usar un acortador al añadir los enlaces al contenido?"
+
+#: includes/class-rop-i18n.php:182
+msgid "Use url shortner"
+msgstr "Usar acortador de urls"
+
+#: includes/class-rop-i18n.php:181
+msgid "Custom Field from which to get the URL."
+msgstr "Campo personalizado del que obtener la URL."
+
+#: includes/class-rop-i18n.php:177
+msgid "Custom field"
+msgstr "Campo personalizado"
+
+#: includes/class-rop-i18n.php:175
+msgid "Should include the post permalink or not?"
+msgstr "¿Debería incluir el enlace permanente de la entrada o no?"
+
+#: includes/class-rop-i18n.php:173
+msgid "End"
+msgstr "Final"
+
+#: includes/class-rop-i18n.php:172
+msgid "Beginning"
+msgstr "Comienzo"
+
+#: includes/class-rop-i18n.php:171
+msgid "Where to add the custom text."
+msgstr "Dónde añadir el texto personalizado."
+
+#: includes/class-rop-i18n.php:170
+msgid "Add custom content to published items."
+msgstr "Añade contenido personalizado a los elementos publicados."
+
+#: includes/class-rop-i18n.php:168
+msgid "Maximum length of the message."
+msgstr "Longitud máxima del mensaje."
+
+#: includes/class-rop-i18n.php:167
+msgid "Maximum chars"
+msgstr "Caracteres máximos"
+
+#: includes/class-rop-i18n.php:166
+msgid "Meta field name from which to get the content."
+msgstr "Nombre del campo meta del que obtener el contenido."
+
+#: includes/class-rop-i18n.php:165
+msgid "Custom Meta Field"
+msgstr "Campo meta personalizado"
+
+#: includes/class-rop-i18n.php:163
+msgid "Post Title & Content"
+msgstr "Título de la entrada y contenido"
+
+#: includes/class-rop-i18n.php:161
+msgid "Post Title"
+msgstr "Título de la entrada"
+
+#: includes/class-rop-i18n.php:160
+msgid "From where to fetch the content which will be shared."
+msgstr "Desde dónde obtener el contenido a compartir."
+
+#: includes/class-rop-i18n.php:145
+msgid "Using a custom share message is available in the pro version."
+msgstr "El uso de un mensaje personalizado a compartir está disponible en la versión pro."
+
+#: includes/class-rop-i18n.php:143
+msgid "These messages will override the post format settings. You can go to each post and add multiple custom messages."
+msgstr "Estos mensajes no se verán afectados por los ajustes de formato de entrada. Puedes ir a cada entrada y añadir varios mensajes personalizados."
+
+#: includes/class-rop-i18n.php:142
+msgid "Custom Share Messages"
+msgstr "Mensajes de compartir personalizados"
+
+#: includes/class-rop-i18n.php:137
+msgid ""
+"If checked an utm query willbe added to URL's so that you cand better track\n"
+"\t\t\t\t\t\t\ttrafic."
+msgstr ""
+"Si se selecciona una solicitud utm se añadirá a las URLs para que puedas hacer un mejor seguimiento del\n"
+"\t\t\t\t\t\t\ttráfico."
+
+#: includes/class-rop-i18n.php:136
+msgid "Enable Google Analytics Tracking"
+msgstr "Activar rastreo de Google Analytics"
+
+#: includes/class-rop-i18n.php:135
+msgid "Posts excluded from sharing, filtered based on previous selections."
+msgstr "Entradas excluidas de compartir, filtradas en base a selecciones previas."
+
+#: includes/class-rop-i18n.php:134
+msgid "Posts"
+msgstr "Entradas"
+
+#: includes/class-rop-i18n.php:129
+msgid ""
+"Taxonomies available for the selected post types. Use to include or exclude\n"
+"\t\t\t\t\t\t\tposts."
+msgstr ""
+"Taxonomías disponibles en los tipos de contenido seleccionados. Úsalo para incluir o excluir\n"
+"\t\t\t\t\t\t\tentradas."
+
+#: includes/class-rop-i18n.php:128
+msgid "Taxonomies"
+msgstr "Taxonomías"
+
+#: includes/class-rop-i18n.php:124
+msgid ""
+"Selecting custom post types is available in the pro\n"
+"\t\t\t\t\t\t\tversion."
+msgstr ""
+"Elegir tipos de contenido personalizado está disponible en la versión\n"
+"\t\t\t\t\t\t\tpro."
+
+#: includes/class-rop-i18n.php:123
+msgid "Post types available to share - what post types are available for share"
+msgstr "Tipos de contenido disponibles para compartir - qué tipos de contenido están disponibles para compartir"
+
+#: includes/class-rop-i18n.php:122
+msgid "Post types"
+msgstr "Tipos de contenido"
+
+#: includes/class-rop-i18n.php:118
+msgid ""
+"If there are no more posts to share, we should start re-sharing the one we\n"
+"\t\t\t\t\t\t\tpreviously shared."
+msgstr ""
+"Si no hay más entradas para compartir deberíamos empezar a volver a compartir los que hemos\n"
+"\t\t\t\t\t\t\tcompartido previamente."
+
+#: includes/class-rop-i18n.php:116
+msgid "Share more than once?"
+msgstr "¿Compartir más de una vez?"
+
+#: includes/class-rop-i18n.php:115
+msgid "Number of posts to share per. account per. trigger of scheduled job."
+msgstr "Número de entradas a compartir por cuenta y por disparador de una tarea programada."
+
+#: includes/class-rop-i18n.php:114
+msgid "Number of posts"
+msgstr "Numero de entradas"
+
+#: includes/class-rop-i18n.php:113
+msgid "Maximum age of posts available for sharing, in days."
+msgstr "Edad máxima de las entradas disponibles para compartir, en días."
+
+#: includes/class-rop-i18n.php:112
+msgid "Maximum post age"
+msgstr "Edad máxima de la entrada"
+
+#: includes/class-rop-i18n.php:111
+msgid "Minimum age of posts available for sharing, in days."
+msgstr "Edad mínima de las entradas disponibles para compartir, en días."
+
+#: includes/class-rop-i18n.php:100
+msgid ""
+"\n"
+"\t\t\t\t\t It seems like you are using more than 1 Twitter account for sharing. On March 23rd Twitter changed it's policy regarding automatic posting across multiple accounts. You should ensure you comply with this new policy by sharing to only one twitter account at a time or risk getting one of your accounts banned.  Read more about this change <a href=\"https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html\" target=\"_blank\"><b>here</b></a>.\n"
+"\t\t\t"
+msgstr ""
+"\n"
+" \n"
+"\t\t\t\t\t Parece que estás usando más de 1 cuenta de Twittter para compartir. El 23 de marzo, Twitter cambió su política relativa a la publicación automática desde varias cuentas. Deberías asegurarte de que cumples con esta nueva política compartiendo a solo una cuenta de Twitter a la vez, o te arriesgas a que te bloqueen una de tus cuentas. Lee más sobre este cambio <a href=\"https://blog.twitter.com/developer/en_us/topics/tips/2018/automation-and-the-use-of-multiple-accounts.html\" target=\"_blank\"><b>aquí</b></a>.\n"
+"\t\t\t"
+
+#: includes/class-rop-i18n.php:110
+msgid "Minimum post age"
+msgstr "Edad mínima de la entrada"
+
+#: includes/class-rop-i18n.php:99
+msgid "The %1$s service can not be used or was not found"
+msgstr "El servicio %1$s no puede usarse o no se ha encontrado"
+
+#: includes/class-rop-i18n.php:97
+msgid "You can check %1$shere%2$s how you get this details."
+msgstr "Puedes comprobar %1$saquí%2$s cómo obtener estos detalles."
+
+#: includes/class-rop-i18n.php:96
+msgid "Please add the APP SECRET from your Facebook app."
+msgstr "Por favor, añade la APP SECRET desde tu aplicación de Facebook."
+
+#: includes/class-rop-i18n.php:95
+msgid "Please add the APP ID from your Facebook app."
+msgstr "Por favor, añade la APP ID desde tu aplicación de Facebook."
+
+#: includes/class-rop-i18n.php:94
+msgid "You are allowed to add a maximum 1 account for Twitter and 1 account for Facebook. For using more accounts and networks, you need to check the <strong>Extended</strong> version."
+msgstr "Tienes permitido añadir un máximo de 1 cuenta de Twitter y una cuenta de Facebook. Para usar más cuentas y redes necesitas probar la versión <strong>extendida</strong>."
+
+#: includes/class-rop-i18n.php:92
+msgid "for"
+msgstr "para"
+
+#: includes/class-rop-i18n.php:89
+msgid "Each <b>account</b> can have it's own options for sharing, on the left you can see the current selected account and network, bellow are the options for the account. Don't forget to save after each change and remember, you can always reset an account to the network defaults."
+msgstr "Cada <b>cuenta</b> puede tener sus propias opciones de compartir, a la izquierda puedes ver la cuenta y red seleccionada actualmente, debajo están las opciones de la cuenta. No olvides guardar tras cada cambio y recuerda que siempre puedes restablecer una cuenta a los valores por defecto de la red."
+
+#: includes/class-rop-i18n.php:88
+msgid "Remove all accounts"
+msgstr "Borrar todas las cuentas"
+
+#: includes/class-rop-i18n.php:87
+msgid " Authenticate a new service (eg. Facebook,Twitter etc. ), select the accounts you want to add from that service and <b>activate</b> them. Only the active accounts will be used for sharing."
+msgstr "Identifícate en un nuevo servicio (p.ej. Facebook, Twitter, etc.), elige las cuentas que quieres añadir del servicio y <b>actívalos</b>. Solo se usarán para compartir las cuentas activas."
+
+#: includes/class-rop-i18n.php:86
+msgid "Sign in and add your social accounts."
+msgstr "Conéctate y añade tus cuentas sociales."
+
+#: includes/class-rop-i18n.php:85
+msgid "Go to Accounts"
+msgstr "Ir a cuentas"
+
+#: includes/class-rop-i18n.php:84
+msgid "Add one from the <b>\"Accounts\"</b> section."
+msgstr "Añade una desde la sección <b>\"Cuentas\"</b>."
+
+#: includes/class-rop-i18n.php:83
+msgid "No active accounts!"
+msgstr "¡No hay cuentas activas!"
+
+#: includes/class-rop-i18n.php:82
+msgid "No accounts!"
+msgstr "¡No hay cuentas!"
+
+#: includes/class-rop-i18n.php:80
+msgid "at"
+msgstr "el"
+
+#: includes/class-rop-i18n.php:79
+msgid "Sign In"
+msgstr "Conéctate"
+
+#: includes/class-rop-i18n.php:78
+msgid "Service Credentials"
+msgstr "Credenciales del servicio"
+
+#: includes/admin/class-rop-admin.php:266
+msgid "Revive Old Posts"
+msgstr "Revivir entradas antiguas"
+
+#. Author of the plugin/theme
+msgid "revive.social"
+msgstr "revive.social"
+
+#. #-#-#-#-#  tweet-old-post-code.pot (Revive Old Posts (Former Tweet Old Post)
+#. 8.0.9)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  tweet-old-post-code.pot (Revive Old Posts (Former Tweet Old Post)
+#. 8.0.9)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://revive.social/"
+msgstr "https://revive.social/"
+
+#: includes/class-rop-i18n.php:133
+msgid "Exclude?"
+msgstr "¿Excluir?"
+
+#: includes/class-rop-i18n.php:237
+msgid "Edit"
+msgstr "Editar"
+
+#: includes/class-rop-i18n.php:241
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. Description of the plugin/theme
+msgid "WordPress plugin that helps you to keeps your old posts alive by sharing them and driving more traffic to them from twitter/facebook or linkedin. It also helps you to promote your content. You can set time and no of posts to share to drive more traffic.For questions, comments, or feature requests, <a href=\"http://revive.social/support/?utm_source=plugindesc&utm_medium=announce&utm_campaign=top\">contact </a> us!"
+msgstr "Plugin para WordPress que te ayuda a mantener vigentes tus publicaciones antiguas compartiéndolas y atrayendo más tráfico desde twitter / facebook o linkedin. También te ayuda a promocionar tu contenido. Puedes establecer el intervalo de tiempo y el número de publicaciones a compartir para atraer más tráfico. Para preguntas, comentarios o petición de funcionalidades, <a href=\"http://revive.social/support/?utm_source=plugindesc&utm_medium=announce&utm_campaign=top\">¡contacta con nosotros!</a> "
+
+#. Plugin Name of the plugin/theme
+msgid "Revive Old Posts (Former Tweet Old Post)"
+msgstr "Revive Old Post (anteriormente Tweet Old Post)"
+
+#: includes/class-rop-i18n.php:90 includes/class-rop-i18n.php:146
+#: includes/class-rop-i18n.php:240
+msgid "Save"
+msgstr "Guardar"
+
+#: includes/class-rop-i18n.php:91
+msgid "Reset"
+msgstr "Restablecer"
+
+#: includes/class-rop-i18n.php:158
+msgid "Post Format"
+msgstr "Formato de publicaciones"
+
+#: includes/class-rop-i18n.php:107
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: includes/class-rop-i18n.php:77
+msgid "Accounts"
+msgstr "Cuentas"
+
+#: includes/class-rop-i18n.php:209
+msgid "Custom Schedule"
+msgstr "Programación personalizada"
+
+#: includes/class-rop-i18n.php:257
+msgid "Leave a review"
+msgstr "Deja una reseña"
+
+#: includes/class-rop-i18n.php:256
+msgid "Show your love"
+msgstr "Muestra tu amor"
+
+#: includes/class-rop-i18n.php:255
+msgid "by"
+msgstr "por"
+
+#: includes/class-rop-i18n.php:93
+msgid "Add Account"
+msgstr "Añadir Cuenta"
+
+#: includes/admin/class-rop-admin.php:281
+msgid "Exclude Posts"
+msgstr "Excluir publicaciones"
+
+#: includes/class-rop-i18n.php:109
+msgid "Minimum time between shares (hour/hours), 0.4 can be used."
+msgstr "Tiempo mínimo entre comparticiones (hora / horas), También se puede usar 0.4."
+
+#: includes/class-rop-i18n.php:108
+msgid "Minimum interval between shares"
+msgstr "Intervalo mínimo entre comparticiones"
+
+#: includes/class-rop-i18n.php:203
+msgid "Post with image"
+msgstr "Publicación con imagen"
+
+#: includes/class-rop-i18n.php:201
+msgid "Maximum Hashtags length"
+msgstr "Longitud máxima de los hashtags"
+
+#: includes/class-rop-i18n.php:197
+msgid "Common Hashtags"
+msgstr "Hashtags comunes"
+
+#: includes/class-rop-i18n.php:196
+msgid "Create hashtags from custom field"
+msgstr "Crear hashtags a partir de campos personalizados"
+
+#: includes/class-rop-i18n.php:195
+msgid "Create hashtags from tags"
+msgstr "Crear hashtags a partir de etiquetas"
+
+#: includes/class-rop-i18n.php:194
+msgid "Create hashtags from categories"
+msgstr "Crear hashtags a partir de categorías"
+
+#: includes/class-rop-i18n.php:193
+msgid "Common hastags for all shares"
+msgstr "Hashtags comunes para todos los compartidos"
+
+#: includes/class-rop-i18n.php:192
+msgid "Dont add any hashtags"
+msgstr "No añadir ningún hashtag"
+
+#: includes/class-rop-i18n.php:190
+msgid "Hashtags"
+msgstr "Etiquetas"
+
+#: includes/class-rop-i18n.php:185
+msgid "URL Shorner Service"
+msgstr "Servicio acortador de URL"
+
+#: includes/class-rop-i18n.php:178
+msgid "Fetch URL from custom field?"
+msgstr "¿Tomar URL del campo personalizado?"
+
+#: includes/class-rop-i18n.php:117 includes/class-rop-i18n.php:141
+#: includes/class-rop-i18n.php:144 includes/class-rop-i18n.php:176
+#: includes/class-rop-i18n.php:179 includes/class-rop-i18n.php:184
+#: includes/class-rop-i18n.php:205
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/class-rop-i18n.php:174
+msgid "Include link"
+msgstr "Incluir enlace"
+
+#: includes/class-rop-i18n.php:169
+msgid "Additional text"
+msgstr "Texto adicional"
+
+#: includes/class-rop-i18n.php:164 includes/class-rop-i18n.php:180
+msgid "Custom Field"
+msgstr "Campo personalizado"
+
+#: includes/class-rop-i18n.php:159 includes/class-rop-i18n.php:162
+msgid "Post Content"
+msgstr "Publicar contenido "
